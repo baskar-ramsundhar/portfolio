@@ -13,5 +13,8 @@
 - Executed data ingestion tasks across various projects, employing Python to manipulate, analyse, and visualise data, resulting in actionable business insights.
 
 ## Projects
-### Machine Learning-Based Predictive Farming: focusing on applying ML algorithms for precision agriculture.   
+
+### Machine Learning-Based Predictive Farming (_July 2022_): 
+
+ - Focusing on applying ML algorithms for precision agriculture.   
 
