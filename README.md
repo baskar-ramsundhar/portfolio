@@ -16,5 +16,5 @@
 
 ### Machine Learning-Based Predictive Farming (_July 2022_): 
 
- - Focusing on applying ML algorithms for precision agriculture.   
+ - Applied ML algorithms for precision agriculture.   
 
