@@ -3,7 +3,7 @@
 #### Technical Skills: Python, SQL, Azure, Snowflake, Terraform
 
 ## Education
-- BEng | The University of Southampton (_July 2022_)								       		
+- BEng The University of Southampton (_July 2022_)								       		
 
 ## Work Experience
 **Data Engineer @ CitiBank (_June 2022 - Dec 2023_)**
