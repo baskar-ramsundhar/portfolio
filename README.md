@@ -20,7 +20,7 @@
 
 ## Projects
 
-### Machine Learning-Based Predictive Farming (_July 2022_): 
+## Machine Learning-Based Predictive Farming (_July 2022_): 
 
  - Dissertation on Machine Learning-Based Predictive Farming, focusing on applying ML algorithms for precision agriculture.
 
